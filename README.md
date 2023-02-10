@@ -6,3 +6,5 @@
 4. collaboration link sent to proff Majid
 5. Creating new webapp and committing
 6. changes made to welcome page
+7. created model folder with ThemeSwim.cs name
+8. 6 properties added including one ID and one Date input...committing
