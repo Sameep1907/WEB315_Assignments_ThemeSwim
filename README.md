@@ -23,3 +23,7 @@
 
 dotnet ef migrations add InitialCreate
 dotnet ef database update
+
+12. Navigation Theme added as link
+
+13. Seedata added...5 properties added
