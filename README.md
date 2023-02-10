@@ -19,4 +19,7 @@
 10. Using the Scaffolding terminal commands to build out CRUD pages for model and committing.
 
     dotnet-aspnet-codegenerator razorpage -m ThemeSwim -dc ThemeSwimContext -udl -outDir Pages/ThemeSwim --referenceScriptLibraries -sqlite
-11. 
+11. Created the initial database schema using EF's migration feature
+
+dotnet ef migrations add InitialCreate
+dotnet ef database update
