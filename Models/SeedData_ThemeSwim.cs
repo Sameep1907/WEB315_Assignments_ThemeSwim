@@ -11,7 +11,7 @@ namespace WEB315_Assignments_ThemeSwim.Models
         {
             using (var context = new ThemeSwimContext(
                 serviceProvider.GetRequiredService<
-                    DbContextOptions<RazorPagesMovieContext>>()))
+                    DbContextOptions<ThemeSwimContext>>()))
             {
                 // Look for any movies.
                 if (context.ThemeSwim.Any())
@@ -22,48 +22,48 @@ namespace WEB315_Assignments_ThemeSwim.Models
                 context.ThemeSwim.AddRange(
                     new ThemeSwim
                     {
-                        EventName = "When Harry Met Sally",
-                        BookingDate = DateTime.Parse("1989-2-12"),
-                        Competition = "Romantic Comedy",
-                        PoolName = "A"
+                        EventName = "International Aquatic Meet",
+                        BookingDate = DateTime.Parse("2023-01-26"),
+                        Competition = "World Championship ",
+                        PoolName = "MP International Swimming Pool",
+                        EntryPrice = 0.00M
+                    },
+
+                    new ThemeSwim
+                    {
+                        EventName = "National Aquatic Meet",
+                        BookingDate = DateTime.Parse("2023-03-24"),
+                        Competition = "National Level",
+                        PoolName = "Varsity Aquatic Stadium",
+                        EntryPrice = 20.00M
+                    },
+
+                    new ThemeSwim
+                    {
+                        EventName = "Swim To Win",
+                        BookingDate = DateTime.Parse("2023-04-12"),
+                        Competition = "Open to all",
+                        PoolName = "Canadian Bay",
                         EntryPrice = 7.99M
                     },
 
                     new ThemeSwim
                     {
-                        EventName = "When Harry Met Sally",
-                        BookingDate = DateTime.Parse("1989-2-12"),
-                        Competition = "Romantic Comedy",
-                        PoolName = "A"
+                        EventName = "Fun Swim",
+                        BookingDate = DateTime.Parse("2023-05-10"),
+                        Competition = "Open for all ",
+                        PoolName = "Sentinels Pool",
                         EntryPrice = 7.99M
                     },
 
                     new ThemeSwim
                     {
-                        EventName = "When Harry Met Sally",
-                        BookingDate = DateTime.Parse("1989-2-12"),
-                        Competition = "Romantic Comedy",
-                        PoolName = "A"
-                        EntryPrice = 7.99M
-                    },
-
-                    new ThemeSwim
-                    {
-                        EventName = "When Harry Met Sally",
-                        BookingDate = DateTime.Parse("1989-2-12"),
-                        Competition = "Romantic Comedy",
-                        PoolName = "A"
-                        EntryPrice = 7.99M
-                    },
-
-                    new ThemeSwim
-                    {
-                        EventName = "When Harry Met Sally",
-                        BookingDate = DateTime.Parse("1989-2-12"),
-                        Competition = "Romantic Comedy",
-                        PoolName = "A"
-                        EntryPrice = 7.99M
-                    },
+                        EventName = "Young Champion",
+                        BookingDate = DateTime.Parse("2023-06-19"),
+                        Competition = "Under 18",
+                        PoolName = "ARAQ International Pool",
+                        EntryPrice = 2.00M
+                    }
                    
                 );
                 context.SaveChanges();

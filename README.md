@@ -27,3 +27,7 @@ dotnet ef database update
 12. Navigation Theme added as link
 
 13. Seedata added...5 properties added
+
+14. Seed Initializer 
+
+15. Datebase updated and submitted in BB
