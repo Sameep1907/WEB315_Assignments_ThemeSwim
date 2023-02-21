@@ -31,3 +31,9 @@ dotnet ef database update
 14. Seed Initializer 
 
 15. Datebase updated and submitted in BB
+
+
+//CONTINUING FROM HERE FOR ASSIGNMENT 2
+
+1. New Branch created as Asg_02 and committing.
+
