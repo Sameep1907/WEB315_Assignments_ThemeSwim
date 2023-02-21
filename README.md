@@ -42,3 +42,5 @@ dotnet ef database update
 3. Getting error with updates on Database run... committing till here!
     running command - dotnet ef migration add "updated changes to NoOPools & AlottedPool"
     dotnet ef database update
+
+4. Validation entry required for each property, code Required has been added to all properties. Range Added to the new property and character limits added to rest of the string properties. Committing
