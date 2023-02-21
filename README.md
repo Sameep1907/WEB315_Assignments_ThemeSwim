@@ -38,3 +38,7 @@ dotnet ef database update
 1. New Branch created as Asg_02 and committing.
 
 2. Adding 2 new property to the Branch Int and String
+
+3. Getting error with updates on Database run... committing till here!
+    running command - dotnet ef migration add "updated changes to NoOPools & AlottedPool"
+    dotnet ef database update
