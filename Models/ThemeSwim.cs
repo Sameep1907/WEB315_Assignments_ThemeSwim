@@ -13,8 +13,8 @@ namespace WEB315_Assignments_ThemeSwim.Models
         public string Competition { get; set; }
         public string PoolName { get; set; }
         public decimal EntryPrice { get; set; }
-
-        /*public int Rating { get; set;}
-        public string RelatedFilms {get; set;}*/
+        public int NoOfPool { get; set; }
+        public string AlottedPool { get; set; }
+        
     }
 }
