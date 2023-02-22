@@ -2,14 +2,16 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace WEB315_Assignments_ThemeSwim.Migrations
 {
     [DbContext(typeof(ThemeSwimContext))]
-    partial class ThemeSwimContextModelSnapshot : ModelSnapshot
+    [Migration("20230221235923_rating Database")]
+    partial class ratingDatabase
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

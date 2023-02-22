@@ -28,6 +28,12 @@
             <th>
                 @Html.DisplayNameFor(model => model.ThemeSwim[0].EntryPrice)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThemeSwim[0].NoOfPool)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThemeSwim[0].AlottedPool)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -48,6 +54,12 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.EntryPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfPool)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AlottedPool)
             </td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |

@@ -44,3 +44,7 @@ dotnet ef database update
     dotnet ef database update
 
 4. Validation entry required for each property, code Required has been added to all properties. Range Added to the new property and character limits added to rest of the string properties. Committing
+
+5. Forgot to update CRUD pages ...completing now and running ef commands...committing till here
+    dotnet ef migrations add "rating Database"
+    dotnet ef database update

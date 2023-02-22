@@ -26,7 +26,9 @@ namespace WEB315_Assignments_ThemeSwim.Models
                         BookingDate = DateTime.Parse("2023-01-26"),
                         Competition = "World Championship ",
                         PoolName = "MP International Swimming Pool",
-                        EntryPrice = 0.00M
+                        EntryPrice = 0.00M,
+                        NoOfPool = 4,
+                        AlottedPool = "A Pool"
                     },
 
                     new ThemeSwim
@@ -35,7 +37,9 @@ namespace WEB315_Assignments_ThemeSwim.Models
                         BookingDate = DateTime.Parse("2023-03-24"),
                         Competition = "National Level",
                         PoolName = "Varsity Aquatic Stadium",
-                        EntryPrice = 20.00M
+                        EntryPrice = 20.00M,
+                        NoOfPool = 3,
+                        AlottedPool = "D Pool"
                     },
 
                     new ThemeSwim
@@ -44,7 +48,9 @@ namespace WEB315_Assignments_ThemeSwim.Models
                         BookingDate = DateTime.Parse("2023-04-12"),
                         Competition = "Open to all",
                         PoolName = "Canadian Bay",
-                        EntryPrice = 7.99M
+                        EntryPrice = 7.99M,
+                        NoOfPool = 8,
+                        AlottedPool = "H Pool"
                     },
 
                     new ThemeSwim
@@ -53,7 +59,9 @@ namespace WEB315_Assignments_ThemeSwim.Models
                         BookingDate = DateTime.Parse("2023-05-10"),
                         Competition = "Open for all ",
                         PoolName = "Sentinels Pool",
-                        EntryPrice = 7.99M
+                        EntryPrice = 7.99M,
+                        NoOfPool = 5,
+                        AlottedPool = "C Pool"
                     },
 
                     new ThemeSwim
@@ -62,7 +70,9 @@ namespace WEB315_Assignments_ThemeSwim.Models
                         BookingDate = DateTime.Parse("2023-06-19"),
                         Competition = "Under 18",
                         PoolName = "ARAQ International Pool",
-                        EntryPrice = 2.00M
+                        EntryPrice = 2.00M,
+                        NoOfPool = 2,
+                        AlottedPool = "B Pool"
                     }
                    
                 );
