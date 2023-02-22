@@ -48,3 +48,5 @@ dotnet ef database update
 5. Forgot to update CRUD pages ...completing now and running ef commands...committing till here
     dotnet ef migrations add "rating Database"
     dotnet ef database update
+
+6. Adding search criteria - getting error with updates on Database run...as Cannot implicitly convert type. Committing till here, will resolve the issue.
