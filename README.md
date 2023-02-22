@@ -50,3 +50,7 @@ dotnet ef database update
     dotnet ef database update
 
 6. Adding search criteria - getting error with updates on Database run...as Cannot implicitly convert type. Committing till here, will resolve the issue.
+
+7. Error resolved, programming running perfectly fine, serch engine running and select list is available and working fine...committing
+
+Asg 2 completed successfully
