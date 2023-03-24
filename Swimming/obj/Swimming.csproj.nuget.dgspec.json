@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj": {}
+    "C:\\Users\\Megsoft\\Desktop\\Sameep\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj": {
+    "C:\\Users\\Megsoft\\Desktop\\Sameep\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj",
+        "projectUniqueName": "C:\\Users\\Megsoft\\Desktop\\Sameep\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj",
         "projectName": "Swimming",
-        "projectPath": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj",
-        "packagesPath": "C:\\Users\\samee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\Swimming\\obj\\",
+        "projectPath": "C:\\Users\\Megsoft\\Desktop\\Sameep\\WEB315_Assignments_ThemeSwim\\Swimming\\Swimming.csproj",
+        "packagesPath": "C:\\Users\\Megsoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Megsoft\\Desktop\\Sameep\\WEB315_Assignments_ThemeSwim\\Swimming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Megsoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -55,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

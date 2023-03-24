@@ -1,5 +1,11 @@
 @page "/"
 
-<h1>My Theme: Swimming</h1>
-<h2>My Name: Sameep Pradeep</h2>
-<h2>The current Date and Time: @DateTime.Now</h2>
+<h1>My Theme:@themeName</h1>
+<h2>My Name:@myName</h2>
+<h2>The current Date and Time:@datetime</h2>
+
+@code{
+    string themeName = "Swimming";
+    string myName = "Sameep Pradeep";
+    DateTime datetime =  DateTime.Now;
+}
