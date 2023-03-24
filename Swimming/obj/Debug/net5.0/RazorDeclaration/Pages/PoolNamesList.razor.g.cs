@@ -90,6 +90,18 @@ using Swimming.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 10 "C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\Pages\PoolNamesList.razor"
+       
+    string[] poolnameslist = new string[]{};
+    
+    public void  DisplayList(){
+        poolnameslist = new string[]{"International Aquatic Center", "National Swimming Pool", " FINA Official Pool", "MP Swimming Pool", "Sharks Stadium"};
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

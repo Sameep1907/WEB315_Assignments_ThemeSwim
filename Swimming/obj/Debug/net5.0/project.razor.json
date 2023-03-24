@@ -87,43 +87,6 @@
         }
       },
       {
-        "HashCode": -1676878645,
-        "Kind": "Components.Component",
-        "Name": "Swimming.Pages.PoolNamesList",
-        "AssemblyName": "Swimming",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PoolNamesList"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Swimming.Pages.PoolNamesList",
-          "Common.TypeNamespace": "Swimming.Pages",
-          "Common.TypeNameIdentifier": "PoolNamesList"
-        }
-      },
-      {
-        "HashCode": 805977714,
-        "Kind": "Components.Component",
-        "Name": "Swimming.Pages.PoolNamesList",
-        "AssemblyName": "Swimming",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Swimming.Pages.PoolNamesList"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Swimming.Pages.PoolNamesList",
-          "Common.TypeNamespace": "Swimming.Pages",
-          "Common.TypeNameIdentifier": "PoolNamesList",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1555304068,
         "Kind": "Components.Component",
         "Name": "Swimming.Pages.Counter",
@@ -157,6 +120,43 @@
           "Common.TypeName": "Swimming.Pages.Counter",
           "Common.TypeNamespace": "Swimming.Pages",
           "Common.TypeNameIdentifier": "Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1676878645,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Pages.PoolNamesList",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PoolNamesList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Pages.PoolNamesList",
+          "Common.TypeNamespace": "Swimming.Pages",
+          "Common.TypeNameIdentifier": "PoolNamesList"
+        }
+      },
+      {
+        "HashCode": 805977714,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Pages.PoolNamesList",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Swimming.Pages.PoolNamesList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Pages.PoolNamesList",
+          "Common.TypeNamespace": "Swimming.Pages",
+          "Common.TypeNameIdentifier": "PoolNamesList",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

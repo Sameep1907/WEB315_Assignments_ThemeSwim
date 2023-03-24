@@ -1,6 +1,16 @@
 ﻿@page "/poolnameslist"
 <h3>PoolNamesList</h3>
 
+<button class="btn btn-primary" @onclick="DisplayList">Show List</button>
+@foreach(string name in poolnameslist)
+{
+    <p>@name</p>
+}
+<input type="number" value="5">
 @code {
+    string[] poolnameslist = new string[]{};
     
+    public void  DisplayList(){
+        poolnameslist = new string[]{"International Aquatic Center", "National Swimming Pool", " FINA Official Pool", "MP Swimming Pool", "Sharks Stadium"};
+    }
 }
