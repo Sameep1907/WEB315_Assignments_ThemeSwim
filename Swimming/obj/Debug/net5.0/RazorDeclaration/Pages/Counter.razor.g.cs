@@ -97,7 +97,11 @@ using Swimming.Shared;
 
     private void IncrementCount()
     {
-        currentCount++;
+        currentCount+=2;
+        if(currentCount>15)
+        {
+            currentCount = 0;
+        }
     }
 
 #line default

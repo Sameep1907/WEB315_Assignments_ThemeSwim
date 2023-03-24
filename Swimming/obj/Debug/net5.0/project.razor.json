@@ -13,43 +13,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1555304068,
-        "Kind": "Components.Component",
-        "Name": "Swimming.Pages.Counter",
-        "AssemblyName": "Swimming",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Swimming.Pages.Counter",
-          "Common.TypeNamespace": "Swimming.Pages",
-          "Common.TypeNameIdentifier": "Counter"
-        }
-      },
-      {
-        "HashCode": 1902685007,
-        "Kind": "Components.Component",
-        "Name": "Swimming.Pages.Counter",
-        "AssemblyName": "Swimming",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Swimming.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Swimming.Pages.Counter",
-          "Common.TypeNamespace": "Swimming.Pages",
-          "Common.TypeNameIdentifier": "Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1356249529,
         "Kind": "Components.Component",
         "Name": "Swimming.Pages.FetchData",
@@ -120,6 +83,43 @@
           "Common.TypeName": "Swimming.Pages.Index",
           "Common.TypeNamespace": "Swimming.Pages",
           "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1555304068,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Pages.Counter",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Pages.Counter",
+          "Common.TypeNamespace": "Swimming.Pages",
+          "Common.TypeNameIdentifier": "Counter"
+        }
+      },
+      {
+        "HashCode": 1902685007,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Pages.Counter",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Swimming.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Pages.Counter",
+          "Common.TypeNamespace": "Swimming.Pages",
+          "Common.TypeNameIdentifier": "Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
