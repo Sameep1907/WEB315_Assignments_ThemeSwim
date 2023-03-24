@@ -87,6 +87,43 @@
         }
       },
       {
+        "HashCode": -1676878645,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Pages.PoolNamesList",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PoolNamesList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Pages.PoolNamesList",
+          "Common.TypeNamespace": "Swimming.Pages",
+          "Common.TypeNameIdentifier": "PoolNamesList"
+        }
+      },
+      {
+        "HashCode": 805977714,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Pages.PoolNamesList",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Swimming.Pages.PoolNamesList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Pages.PoolNamesList",
+          "Common.TypeNamespace": "Swimming.Pages",
+          "Common.TypeNameIdentifier": "PoolNamesList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1555304068,
         "Kind": "Components.Component",
         "Name": "Swimming.Pages.Counter",
@@ -179,43 +216,6 @@
           "Common.TypeName": "Swimming.Shared.SurveyPrompt",
           "Common.TypeNamespace": "Swimming.Shared",
           "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2110228153,
-        "Kind": "Components.Component",
-        "Name": "Swimming.Shared.NavMenu",
-        "AssemblyName": "Swimming",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Swimming.Shared.NavMenu",
-          "Common.TypeNamespace": "Swimming.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
-        }
-      },
-      {
-        "HashCode": -1049581991,
-        "Kind": "Components.Component",
-        "Name": "Swimming.Shared.NavMenu",
-        "AssemblyName": "Swimming",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Swimming.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Swimming.Shared.NavMenu",
-          "Common.TypeNamespace": "Swimming.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -322,6 +322,43 @@
           "Common.TypeNamespace": "Swimming.Shared",
           "Common.TypeNameIdentifier": "MainLayout",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2110228153,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Shared.NavMenu",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Shared.NavMenu",
+          "Common.TypeNamespace": "Swimming.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
+        }
+      },
+      {
+        "HashCode": -1049581991,
+        "Kind": "Components.Component",
+        "Name": "Swimming.Shared.NavMenu",
+        "AssemblyName": "Swimming",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Swimming.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Swimming.Shared.NavMenu",
+          "Common.TypeNamespace": "Swimming.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -18023,6 +18060,11 @@
     {
       "FilePath": "c:\\Users\\Megsoft\\Desktop\\Sameep\\WEB315_Assignments_ThemeSwim\\Swimming\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Megsoft\\Desktop\\Sameep\\WEB315_Assignments_ThemeSwim\\Swimming\\Pages\\PoolNamesList.razor",
+      "TargetPath": "Pages\\PoolNamesList.razor",
       "FileKind": "component"
     },
     {

@@ -56,3 +56,5 @@ C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\obj\Debug\
 C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\obj\Debug\net5.0\Swimming.genruntimeconfig.cache
 C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\obj\Debug\net5.0\ref\Swimming.dll
 C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\obj\Debug\net5.0\Swimming.csproj.CopyComplete
+C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\obj\Debug\net5.0\RazorDeclaration\Pages\PoolNamesList.razor.g.cs
+C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\obj\Debug\net5.0\Razor\Pages\PoolNamesList.razor.g.cs
