@@ -2,15 +2,25 @@
 <h3>PoolNamesList</h3>
 
 <button class="btn btn-primary" @onclick="DisplayList">Show List</button>
-@foreach(string name in poolnameslist)
+@for(int i = 0 ; i < numberOfTimes; i++)
 {
-    <p>@name</p>
+    if(poolnameslist.Length > 0){
+     <p>@poolnameslist[i]</p>   
+    }
+    
 }
-<input type="number" value="5">
+<input type="number" value="5" @onchange="(e)=> UpdateResults(int.Parse(e.Value.ToString()))">
 @code {
     string[] poolnameslist = new string[]{};
-    
+    int numberOfTimes = 5;
     public void  DisplayList(){
         poolnameslist = new string[]{"International Aquatic Center", "National Swimming Pool", " FINA Official Pool", "MP Swimming Pool", "Sharks Stadium"};
+    }
+    public void UpdateResults(int amount)
+    {
+    if(amount > 0 && amount < 6){
+        numberOfTimes = amount;
+    }
+       
     }
 }

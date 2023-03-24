@@ -91,12 +91,19 @@ using Swimming.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 10 "C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\Pages\PoolNamesList.razor"
+#line 13 "C:\Users\Megsoft\Desktop\Sameep\WEB315_Assignments_ThemeSwim\Swimming\Pages\PoolNamesList.razor"
        
     string[] poolnameslist = new string[]{};
-    
+    int numberOfTimes = 5;
     public void  DisplayList(){
         poolnameslist = new string[]{"International Aquatic Center", "National Swimming Pool", " FINA Official Pool", "MP Swimming Pool", "Sharks Stadium"};
+    }
+    public void UpdateResults(int amount)
+    {
+    if(amount > 0 && amount < 6){
+        numberOfTimes = amount;
+    }
+       
     }
 
 #line default
