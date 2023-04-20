@@ -874,35 +874,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samee\\.nuget\\packages\\": {}
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Server\\SameepPradeepChat.Server.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Server\\SameepPradeepChat.Server.csproj",
       "projectName": "SameepPradeepChat.Server",
-      "projectPath": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Server\\SameepPradeepChat.Server.csproj",
-      "packagesPath": "C:\\Users\\samee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Server\\obj\\",
+      "projectPath": "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Server\\SameepPradeepChat.Server.csproj",
+      "packagesPath": "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jorgedelossantosreye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Client\\SameepPradeepChat.Client.csproj": {
-              "projectPath": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Client\\SameepPradeepChat.Client.csproj"
+            "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Client\\SameepPradeepChat.Client.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Client\\SameepPradeepChat.Client.csproj"
             },
-            "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Shared\\SameepPradeepChat.Shared.csproj": {
-              "projectPath": "C:\\Users\\samee\\OneDrive\\Documents\\GitHub\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Shared\\SameepPradeepChat.Shared.csproj"
+            "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Shared\\SameepPradeepChat.Shared.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Shared\\SameepPradeepChat.Shared.csproj"
             }
           }
         }
@@ -940,7 +942,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
