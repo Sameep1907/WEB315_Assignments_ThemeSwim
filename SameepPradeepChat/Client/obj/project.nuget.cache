@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VkQsRT52TwhE8pPYjP3HRJ7A8XSTa5eHbv4OlNz/ic/WHieBVNNmx2/KSUuZ+BIQ6ryaOOMR/MPFtGlWheZc+w==",
+  "dgSpecHash": "NeBVmhL2vtVwFxDyQU+kGFs8V915XaXueEbuT7Tiaz/1ms7ZrKo+V9v852lCfqQIDfNHLJ7DzUgeR27kaYQpCQ==",
   "success": true,
   "projectFilePath": "\\\\Mac\\Home\\Documents\\WEB315_Assignments_ThemeSwim\\SameepPradeepChat\\Client\\SameepPradeepChat.Client.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,15 @@
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.0\\microsoft.aspnetcore.components.web.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\5.0.0\\microsoft.aspnetcore.components.webassembly.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\5.0.0\\microsoft.aspnetcore.components.webassembly.devserver.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.0\\microsoft.aspnetcore.connections.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.0\\microsoft.aspnetcore.http.connections.client.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.0\\microsoft.aspnetcore.http.connections.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.0\\microsoft.aspnetcore.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.0\\microsoft.aspnetcore.signalr.client.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.0\\microsoft.aspnetcore.signalr.client.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.0\\microsoft.aspnetcore.signalr.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.0\\microsoft.aspnetcore.signalr.protocols.json.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
@@ -30,6 +38,7 @@
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.0\\microsoft.jsinterop.webassembly.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512",
     "C:\\Users\\jorgedelossantosreye\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.17\\microsoft.netcore.app.runtime.browser-wasm.5.0.17.nupkg.sha512"
   ],
   "logs": []
